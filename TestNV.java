@@ -17,5 +17,7 @@ public static void main(String[] args) {
 	System.out.println("ten nhan vien "+a.gettenNhanVien());
 	System.out.println("luong max"+a.getLUONG_MAX());
 	System.out.println(b);
+	System.out.println("son ngu vaix ");
 }
+
 }
