@@ -50,5 +50,6 @@ public void inTTin() {
     System.out.println();
     System.out.println("Ten nhan vien: " + tenNhanVien);
     System.out.println("Luong: " + tinhLuong());
+	System.out.println("djfksdkjffds");
 }
 }
